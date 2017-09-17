@@ -1,5 +1,4 @@
 # deepleraning.ai-course
-Some Programming Task on Andrew Ng's course on Coursera
 刚开始学习Andrew Ng在Coursera的deeplearning课程，在这里将一些编程作业做一些记录。
 如果有任何错误请批评指正，欢迎联系**zpzhang1995@gmail.com**
 
