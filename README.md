@@ -9,9 +9,8 @@
    **Week3** Shallow Neural networks    
    **Week4** Deep Neural Networks 
 
-## Improving Deep Neural Networks  
-   **Week1** Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  
-   
+## Improving Deep Neural Networks
+   **Week1** Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  
    **Week2** Optimization algorithms  
    
     
@@ -41,7 +40,7 @@
 - 初始化时候不要设置过大，不然梯度会很小（程序中有相关体现，程序中用的是He-Initialization,一定程度缓解梯度消失或梯度爆炸)  
 - Gradient Checking对找到bug很有参考意义 
 
-#### 5. Project2 week2 *Optimization algorithms* 的一些总结
+#### 6. Project2 week2 *Optimization algorithms* 的一些总结
 - 随机梯度下降不会收敛在最优位置，会在最优位置附近震动
 - 如果样本数目比较小(<2000 通常)不需要使用mini-batch
 - mini-batch大小通常16,64.128,256等（2的次方）（由于计算机的存储规则）
