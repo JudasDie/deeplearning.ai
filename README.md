@@ -10,7 +10,8 @@
    **Week4** Deep Neural Networks 
 
 ## Improving Deep Neural Networks  
-   **Week1** Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  
+   **Week1** Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  
+   
    **Week2** Optimization algorithms  
    
     
