@@ -12,10 +12,10 @@
 ## Improving Deep Neural Networks
    **Week1** Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  
    **Week2** Optimization algorithms  
-   **Week3** Hyperparameter tuning, Batch Normalization and Programming Frameworks
+   **Week3** Hyperparameter tuning, Batch Normalization and Programming Frameworks  
+## Improving Deep Neural Networks
+   **Week1**  Foundations of Convolutional Neural Networks  
    
-    
-           
         
       
    努力学习中...
