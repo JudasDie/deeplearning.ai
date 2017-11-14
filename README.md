@@ -3,21 +3,21 @@ This is some records of Andrews' deeplearning course from Coursera. I have uploa
 
 ### Course Contents
 **Neural Networks and Deep Learning**  
-Week1　Introduction to deep learning  
-Week2　Neural Networks Basics   
-Week3　Shallow Neural networks    
-Week4　Deep Neural Networks 
+<font size="4">Week1　Introduction to deep learning</font>  
+<font size="4">Week2　Neural Networks Basics</font>   
+<font size="4">Week3　Shallow Neural networks</font>   
+<font size="4">Week4　Deep Neural Networks</font>   
 
 **Improving Deep Neural Networks**  
-Week1　Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  
-Week2　Optimization algorithms  
-Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks  
+<font size="4">Week1　Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)</font>  
+<font size="4">Week2　Optimization algorithms</font>  
+<font size="4">Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 
 **Convolutional Neural Network**  
-Week1　Foundations of Convolutional Neural Networks 
-Week2　Deep convolutional models: case studies  
-Week3　Object detection  
-Week4　Special applications: Face recognition & Neural style transfer  
+<font size="4">Week1　Foundations of Convolutional Neural Networks</font>  
+<font size="4">Week2　Deep convolutional models: case studies</font>  
+<font size="4">Week3　Object detection</font>  
+<font size="4">Week4　Special applications: Face recognition & Neural style transfer</font>  
    
    continued...
    
