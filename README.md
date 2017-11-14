@@ -21,6 +21,11 @@ This is some records of Andrews' `deeplearning.ai` course from `Coursera`. I hav
    
    continued...
    
+### About install tensorflow-gpu on windows
+- Cause I found many people get many issues while installing tensorflow-gpu on windows, and there are many talks before tensorflow-1.4.0 shows like this on [Stackoverflow](https://stackoverflow.com/questions/42011070/on-windows-running-import-tensorflow-generates-no-module-named-pywrap-tenso).   
+- You will not face problem above again thanks to tensorflow-1.4.0!  
+-  **python3.6.x + cudnn6.0 + CUDA8.0 + tensorflow-1.4.0** work perfect!
+- Remember move files in cundnn to CUDA8.0 accordingly (you also do this in the past)!
 
 ### Update Records
 - Specialization 4 Done!　2017/11/13
