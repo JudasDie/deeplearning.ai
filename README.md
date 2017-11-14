@@ -23,8 +23,8 @@ This is some records of Andrews' deeplearning course from Coursera. I have uploa
    
 
 ## Update Records
-- Specialization 4 Done!  2017/11/13
-- Move Course Records to Records.md  2017/11/14
+- Specialization 4 Done!　2017/11/13
+- Move Course Records to Records.md　2017/11/14
 
 
 ### Thanks for Andrew Ng!
