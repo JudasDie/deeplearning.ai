@@ -31,9 +31,13 @@ This is some records of Andrews' `deeplearning.ai` course from `Coursera`. I hav
 - I recommend you a video course for learning tensorflow from Google, you can download [here](http://pan.baidu.com/s/1ge2xPuF)
 - A good introduction about Deep Neural Network, download [here](http://pan.baidu.com/s/1c1FviBA) <br/>
 
+### Some Good Machine Learning Tutorial
+- Expectation Maximization(EM) course by Xu Yida on [Youtube](https://www.youtube.com/watch?v=Bq5s80ZCmC0&list=PLyAft-JyjIYpno8IfZZS0mnxD5TYZ6BIc)<br/>
+
 ### Update Records
 - Specialization 4 Done!　2017/11/13
 - Move Course Records to Records.md　2017/11/14
+- Add Expectation Maximization(EM) course links  2017/12/13
 
 
 ### Thanks for Andrew Ng!
