@@ -35,8 +35,8 @@ This is some records of Andrews' `deeplearning.ai` course from `Coursera`. I hav
 - I recommend you a video course for learning tensorflow from Google, you can download [here](http://pan.baidu.com/s/1ge2xPuF)
 - A good introduction about Deep Neural Network, download [here](http://pan.baidu.com/s/1c1FviBA) <br/>
 - Best results on standard dataset like MNIST, CIFAR-10/100, ILSVRC2012... [here](http://rodrigob.github.io/are_we_there_yet/build/)<br/>
-- Keras Documentation Chinese Version, download [here](https://pan.baidu.com/s/1dGsZPRj)
-
+- Keras Documentation Chinese Version, download [here](https://pan.baidu.com/s/1dGsZPRj)<br/>
+- Deep Learning by Goodfellow, download[here](https://pan.baidu.com/s/1sm0dvBn)
 ### Some Good Machine Learning Tutorial
 - Expectation Maximization(EM) course by Xu Yida on [Youtube](https://www.youtube.com/watch?v=Bq5s80ZCmC0&list=PLyAft-JyjIYpno8IfZZS0mnxD5TYZ6BIc)<br/>
 
