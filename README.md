@@ -1,5 +1,6 @@
 # deepleraning.ai-course
-This is some records of Andrews' `deeplearning.ai` course from `Coursera`. I have uploaded my programming implement to this warehouse. There might be something wrong with my work, be free to email `zpzhang1995@gmail.com`. And if you can push your right answer, that will be grateful. 
+This is some records of Andrews' `deeplearning.ai` course from `Coursera`. I have uploaded my programming implement to this warehouse. There might be something wrong with my work, be free to email `zpzhang1995@gmail.com`. And if you can push your right answer, that will be grateful.<br/>
+Read AI article on my [blog](https://judasdie.github.io/)
 
 ------
 ### Course Contents
@@ -25,7 +26,12 @@ This is some records of Andrews' `deeplearning.ai` course from `Coursera`. I hav
 <font size=1>Week2　Natural Language Processing & Word Embeddings</font>  
 <font size=1>Week3　Sequence models & Attention mechanism</font>  
    
-   
+------
+**Blog Articles**  
+- [How to build Github Pages with jeklly](https://judasdie.github.io/2018/04/use-jeklly-build-githubpages/)
+- [Three ways for face detection](https://judasdie.github.io/2018/04/three-ways-for-face-detection/)
+- [Real Time Film-Lead Face Identify](https://judasdie.github.io/2018/04/real-time-film-lead-face-identify/)
+
 ------
 
 ### About install tensorflow-gpu on windows
