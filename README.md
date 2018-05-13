@@ -50,13 +50,18 @@ Read AI article on my [blog](https://judasdie.github.io/)
 ### Some Good Machine Learning Tutorial
 - Expectation Maximization(EM) course by Xu Yida on [Youtube](https://www.youtube.com/watch?v=Bq5s80ZCmC0&list=PLyAft-JyjIYpno8IfZZS0mnxD5TYZ6BIc)<br/>
 
+### Some good repo
+- GANs with keras [here](https://github.com/eriklindernoren/Keras-GAN)<br/>
+- GANs with pytorch [here](https://github.com/eriklindernoren/PyTorch-GAN)
+
 -----
 ### Update Records
 - Specialization 4 Done!　2017/11/13
 - Move Course Records to Records.md　2017/11/14
 - Add Expectation Maximization(EM) course links　2017/12/13
-- Add a Chinese Version keras tutorial　2012/2/23
-- Specialization 5 Done!　2017/3/8
+- Add a Chinese Version keras tutorial　2018/2/23
+- Specialization 5 Done!　2018/3/8
+- Add GANs repo  2018/5/13
 
 
 ### Thanks for Andrew Ng!
