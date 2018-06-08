@@ -1,5 +1,6 @@
 # deepleraning.ai-course
 This is some records of Andrews' `deeplearning.ai` course from `Coursera`. I have uploaded my programming implement to this warehouse. There might be something wrong with my work, be free to email `zpzhang1995@gmail.com`. And if you can push your right answer, that will be grateful.<br/>
+And to be clear, Ng's course is my first access to AI. I would love to share more learning experience on DL/ML, so I will put some good repos/articles on this page. Please read this whole `REDEME`, hope there is some thing helps you. <br/>
 Read AI article on my [blog](https://judasdie.github.io/)
 
 ------
