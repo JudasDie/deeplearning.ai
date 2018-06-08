@@ -1,1 +1,0 @@
-Deep Neural Network Application的多层神经网络模型结果一直不对，暂时没有找到原因，如果您发现原因请及时联系或评论
