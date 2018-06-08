@@ -49,6 +49,7 @@ Read AI article on my [blog](https://judasdie.github.io/)
 - Deep Learning by Goodfellow [here](https://pan.baidu.com/s/1sm0dvBn)
 ### Some Good Machine Learning Tutorial
 - Expectation Maximization(EM) course by Xu Yida on [Youtube](https://www.youtube.com/watch?v=Bq5s80ZCmC0&list=PLyAft-JyjIYpno8IfZZS0mnxD5TYZ6BIc)<br/>
+- Understanding Variational Autoencoders ([VAEs](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)) from two perspectives: deep learning and graphical models
 
 ### Some good repo
 - GANs with keras [here](https://github.com/eriklindernoren/Keras-GAN)<br/>
