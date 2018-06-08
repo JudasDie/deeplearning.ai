@@ -1,1 +1,1 @@
-You can download pretrained weights from [BaiduDrive](http://pan.baidu.com/s/1bp6jwAV)
+You can download pretrained weights from [vlfeat.org](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)
